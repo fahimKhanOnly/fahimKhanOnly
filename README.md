@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Fahim Khan.
 #### Front end Developer
 
-Skills: HTML / CSS / Tailwind CSS / JS
+Skills: Tailwind CSS / ReactJS / React Router
 
 - 🔭 I’m currently working on Learn Programming 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Firebase 
 - 😄 Pronouns: Fahim 
 
 
