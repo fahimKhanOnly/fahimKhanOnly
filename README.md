@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Fahim Khan.
 #### Front end Developer
 
-Skills: Tailwind CSS / ReactJS / React Router
+Skills: Tailwind CSS / DaisyUI / ReactJS / React Router / Firebase / ExpressJS
 
 - 🔭 I’m currently working on Learn Programming 
 - 🌱 I’m currently learning Firebase 
