@@ -4,7 +4,7 @@
 Skills: Tailwind CSS / DaisyUI / ReactJS / React Router / Firebase / ExpressJS
 
 - 🔭 I’m currently working on Learn Programming 
-- 🌱 I’m currently learning Firebase 
+- 🌱 I’m currently learning JWT
 - 😄 Pronouns: Fahim 
 
 
